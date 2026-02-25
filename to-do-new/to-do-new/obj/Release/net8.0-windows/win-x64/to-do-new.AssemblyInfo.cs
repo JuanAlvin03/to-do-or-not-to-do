@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("to-do-new")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e097cfc71c538984e7722c5d524729d85cb336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a06329cec886f204db5f8b31fedac48283e5d0b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("to-do-new")]
 [assembly: System.Reflection.AssemblyTitleAttribute("to-do-new")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
