@@ -1,0 +1,11 @@
+C:\portfolio\to-do-list\to-do\to-do\bin\Debug\to-do.exe.config
+C:\portfolio\to-do-list\to-do\to-do\bin\Debug\to-do.exe
+C:\portfolio\to-do-list\to-do\to-do\bin\Debug\to-do.pdb
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.csproj.AssemblyReference.cache
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to_do.Form1.resources
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to_do.Properties.Resources.resources
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.csproj.GenerateResource.cache
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.csproj.CoreCompileInputs.cache
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.exe
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.pdb
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.exe.config
