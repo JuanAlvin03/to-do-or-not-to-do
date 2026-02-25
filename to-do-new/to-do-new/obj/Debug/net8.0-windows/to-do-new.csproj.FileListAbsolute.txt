@@ -1,0 +1,17 @@
+C:\portfolio\to-do-list\to-do-new\to-do-new\bin\Debug\net8.0-windows\to-do-new.exe
+C:\portfolio\to-do-list\to-do-new\to-do-new\bin\Debug\net8.0-windows\to-do-new.deps.json
+C:\portfolio\to-do-list\to-do-new\to-do-new\bin\Debug\net8.0-windows\to-do-new.runtimeconfig.json
+C:\portfolio\to-do-list\to-do-new\to-do-new\bin\Debug\net8.0-windows\to-do-new.dll
+C:\portfolio\to-do-list\to-do-new\to-do-new\bin\Debug\net8.0-windows\to-do-new.pdb
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to_do_new.Form1.resources
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.csproj.GenerateResource.cache
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.AssemblyInfoInputs.cache
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.AssemblyInfo.cs
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.csproj.CoreCompileInputs.cache
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.sourcelink.json
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.dll
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\refint\to-do-new.dll
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.pdb
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\to-do-new.genruntimeconfig.cache
+C:\portfolio\to-do-list\to-do-new\to-do-new\obj\Debug\net8.0-windows\ref\to-do-new.dll
