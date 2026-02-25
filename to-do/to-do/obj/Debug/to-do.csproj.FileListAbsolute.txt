@@ -9,3 +9,7 @@ C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.csproj.CoreCompileInputs.cac
 C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.exe
 C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.pdb
 C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.exe.config
+C:\portfolio\to-do-list\to-do\to-do\bin\Debug\to-do.exe.manifest
+C:\portfolio\to-do-list\to-do\to-do\bin\Debug\to-do.application
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.exe.manifest
+C:\portfolio\to-do-list\to-do\to-do\obj\Debug\to-do.application
